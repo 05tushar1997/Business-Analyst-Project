@@ -20,7 +20,8 @@ The aim of this project is to build a data management and visualization system f
 Comprehensive Data Management: From data generation to database creation, this project covers the full spectrum of data management practices.
 Interactive Visualization: Utilizing Power BI, the project includes an interactive dashboard that offers deep insights into sales trends, product performance, and customer demographics.
 
-# Practical Application: The project mimics real-world business operations, providing a practical framework for similar data management and visualization tasks.
+# Practical Application: 
+The project mimics real-world business operations, providing a practical framework for similar data management and visualization tasks.
 
 # Why Explore?
 Enhance Skills: This project offers a hands-on opportunity to enhance your skills in data management, SQL, and data visualization.
@@ -32,4 +33,10 @@ Insightful Analysis: The interactive dashboard allows for deep dives into data, 
 ## Project Overview 💻
 
 This project aims to build a comprehensive data management and visualization system for Raksha Pipes, a Bangalore-based company. The project includes generating realistic data, designing and setting up a MySQL database, and creating an interactive dashboard in Power BI to visualize key business metrics.
+
+# Step 1:Generate Data and Design Database ![image](https://github.com/05tushar1997/Business-Analyst-Project/assets/161101934/fd4a0e0f-2c76-46ee-b5cd-70d98427d752)
+
+
+
+
 
