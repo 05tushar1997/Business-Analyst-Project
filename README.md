@@ -10,11 +10,11 @@ In today's data-driven world, effective data management and visualization are cr
 The aim of this project is to build a data management and visualization system from scratch for Raksha Pipes, a Bangalore-based company. The system includes data generation, database creation, and dashboard development, culminating in a detailed report and video presentation.
 
 ## Table of Contents 📊
-# Step 1: Generate Data and Design Database
-Generate Data
-Design Database
-# Step 2: Set Up Database in MySQL
-# Step 3: Create Dashboard in Power BI
+ Step 1: Generate Data and Design Database
+- Generate Data
+- Design Database
+ Step 2: Set Up Database in MySQL
+ Step 3: Create Dashboard in Power BI
 ## Project Highlights
 Comprehensive Data Management: From data generation to database creation, this project covers the full spectrum of data management practices.
 Interactive Visualization: Utilizing Power BI, the project includes an interactive dashboard that offers deep insights into sales trends, product performance, and customer demographics.
